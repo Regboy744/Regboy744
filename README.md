@@ -1,5 +1,5 @@
 <h1 align="center">👋, Hello World !</h1>
-<h3 align="center">A passionate frontend developer from Ireland</h3>
+<h3 align="center">A passionate full-stack developer from Ireland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=regboy744&label=Profile%20views&color=0e75b6&style=flat" alt="regboy744" /> </p>
 
@@ -34,6 +34,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=regboy744&show_icons=true&locale=en&layout=compact" alt="regboy744" /></p>
 
-<hr>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=regboy744&show_icons=true&locale=en" alt="regboy744" /></p>
+
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=regboy744&show_icons=true&locale=en" alt="regboy744" /></p>
