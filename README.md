@@ -13,13 +13,13 @@
 
 - 👨‍💻 All of my projects are available at [portfolio](portfolio)
 
-- 📝 I regularly write articles on [blog](blog)
+<!-- - 📝 I regularly write articles on [blog](blog) -->
 
 - 💬 Ask me about **JavaScript, MySQL, MongoDb, Git, Html, Css, Docker, NodeJs and Vuejs**
 
 - 📫 How to reach me **carvalho.ie18@gmail.com**
 
-- 📄 Know about my experiences [resume](resume)
+<!-- - 📄 Know about my experiences [resume](resume) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
